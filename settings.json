@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dhaakasmp.aternos.me",
-    "port": 27989,
+    "ip": "dominatorSMP.play.hosting",
+    "port": 58508,
     "version": "1.20.1",
     "try-creative": false
   },
